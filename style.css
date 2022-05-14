@@ -274,12 +274,12 @@ em.em {
     height: 453.5px;
 }
 
-.icon3 {
+.icon3 img {
     height: 517.31px;
     width: 400px;
 }
 
-.icon4 {
+.icon4 img {
     height: 280.36px;
     width: 400px;
     /* float: right; */
@@ -510,12 +510,10 @@ footer.footsy ul li {
     .icon4 img {
         height: auto;
         max-width: 100%;
-        /* float: left; */
     }
     .icon5 img {
         height: auto;
         max-width: 100%;
-        /* float: left; */
     }
     div.leftSide-col,
     div.rightSide-col {
